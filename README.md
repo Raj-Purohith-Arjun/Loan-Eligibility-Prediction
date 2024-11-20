@@ -1,4 +1,6 @@
 End-to-End MLOps Pipeline for Loan Eligibility Prediction
+
+
 This project involves building an MLOps pipeline for a Loan Eligibility Prediction model using Python, deployed on Google Cloud Platform (GCP). The pipeline was designed to automate the entire process of model development, deployment, and monitoring using various GCP services, including Cloud Build, Cloud Run, Cloud Source Repository, Docker, and Flask. This setup ensures scalable, automated, and efficient machine learning operations.
 
 Key Components:

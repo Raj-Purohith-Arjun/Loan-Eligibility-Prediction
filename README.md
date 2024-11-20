@@ -86,4 +86,4 @@ Once deployed, you can test the API by sending POST requests with applicant data
 For any questions or suggestions, feel free to reach out:
 Raj Purohith Arjun
 Email: raj2001@tamu.edu
-LinkedIn: Raj Purohith Arjun
+LinkedIn: https://www.linkedin.com/in/raj-purohith-arjun-20a652200/

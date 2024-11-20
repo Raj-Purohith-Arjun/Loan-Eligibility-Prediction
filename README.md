@@ -82,21 +82,7 @@ Deploy the Dockerized Flask API to Cloud Run for scalable and automated serving 
 Test the API:
 
 Once deployed, you can test the API by sending POST requests with applicant data, and it will return the loan eligibility result.
-Sample Output:
-After deploying the Flask API on Cloud Run, users can interact with the loan eligibility prediction system. Here’s an example of how to interact with the API using a POST request:
 
-bash
-Copy code
-curl -X POST https://your-cloud-run-url \
-  -H "Content-Type: application/json" \
-  -d '{"income": 50000, "credit_score": 750, "loan_amount": 20000, "employment_status": "Employed"}'
-Response:
-
-json
-Copy code
-{
-  "loan_eligibility": "Approved"
-}
 For any questions or suggestions, feel free to reach out:
 Raj Purohith Arjun
 Email: raj2001@tamu.edu
